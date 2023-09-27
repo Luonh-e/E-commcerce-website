@@ -1,0 +1,1 @@
+<h1 style="text-align: center">Lỗi liên quan đến CSDL</h1>
